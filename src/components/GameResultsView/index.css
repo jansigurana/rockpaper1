@@ -1,0 +1,14 @@
+.result-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 100px;
+  padding: 10px;
+  font-size: 10px;
+  color: #223a5f;
+  outline: none;
+  border-radius: 5px;
+  border-style: none;
+}
